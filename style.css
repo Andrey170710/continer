@@ -1,0 +1,22 @@
+img {
+	border: black 2px solid;
+	width: 200px;
+	height: 130px;
+}
+
+div {
+	border: red 2px solid;
+	background: #ffefcf;
+	width: 230px;
+	text-align: center;
+	display: inline-block;
+	margin: 2px;
+	padding-bottom: 11px;
+}
+
+h1 {
+	text-align: center;
+}
+body {
+	text-align: center;
+}
